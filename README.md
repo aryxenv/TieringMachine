@@ -22,6 +22,11 @@ The project is divided into three main components:
 - **AI**: Groq API (Llama 3.1)
 - **DevOps**: Docker
 
+## Deployment
+- **Frontend**: Combell Web Hosting
+- **Backend**: Azure App Service (Container)
+- **Database**: Azure Database for PostgreSQL flexible servers
+
 ## Getting Started
 
 Please refer to the specific READMEs for each component to get started:
@@ -33,5 +38,5 @@ Please refer to the specific READMEs for each component to get started:
 ## Credits
 
 - Backend Lead: [MJ (Github)](https://github.com/Mougembo)
-- Frontend Lead: [Aryan (Github)](https://github.com/l145dev)
+- Frontend/DevOps Lead: [Aryan (Github)](https://github.com/l145dev)
 - Database Lead: [Sahir (Github)](https://github.com/elciguapuuu)
