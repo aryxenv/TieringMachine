@@ -2,6 +2,9 @@
 
 A dystopian Social Credit System simulation where citizens are ranked, judged, and tiered based on their behavior.
 
+> [!WARNING]
+> This was a project built during the Odoo Hackathon 5th edition in **48 hours**, expect code to be messy or bugs to be found.
+
 ## Overview
 
 Tiering Machine simulates a society where every action is monitored and scored. It features an AI-powered judicial system that evaluates reports and assigns point penalties or rewards, determining a citizen's social standing.
@@ -22,10 +25,19 @@ The project is divided into three main components:
 - **AI**: Groq API (Llama 3.1)
 - **DevOps**: Docker
 
+> [!NOTE] 
+> Development commits were made in other repositories, this repository is a bundled version of the project.
+> * **Frontend**: Tiering-Machine-FE (DELETED)
+> * **Backend**: Tiering-Machine-BE (PRIVATE)
+> * **Database**: No Git
+
 ## Deployment
 - **Frontend**: Combell Web Hosting
 - **Backend**: Azure App Service (Container)
 - **Database**: Azure Database for PostgreSQL flexible servers
+
+> [!NOTE] 
+> Web application is deployed on the cloud on low tiers of Azure. Expect some latency.
 
 ## Getting Started
 
@@ -37,6 +49,6 @@ Please refer to the specific READMEs for each component to get started:
 
 ## Credits
 
-- Backend Lead: [MJ (Github)](https://github.com/Mougembo)
 - Frontend/DevOps Lead: [Aryan (Github)](https://github.com/l145dev)
+- Backend Lead: [MJ (Github)](https://github.com/Mougembo)
 - Database Lead: [Sahir (Github)](https://github.com/elciguapuuu)
