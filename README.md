@@ -43,7 +43,7 @@ A standalone client for Tiering Machine is used for Deployment. This is to save 
 - **Database**: Azure Database for PostgreSQL flexible servers
 
 > [!NOTE]
-> Web application is deployed on the cloud on low tiers of Azure. Expect some latency.
+> To save costs, Azure is no longer being used for the deployed application. Backend and data lives entirely on the frontend, all data is non-sensitive.
 
 ## Getting Started
 
