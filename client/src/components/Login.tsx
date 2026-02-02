@@ -317,7 +317,7 @@ const Login = () => {
         {/* GitHub Link */}
         <IconButton
           component="a"
-          href="https://github.com/l145dev/TieringMachine"
+          href="https://github.com/aryxenv/TieringMachine"
           target="_blank"
           rel="noopener noreferrer"
           sx={{

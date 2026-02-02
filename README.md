@@ -55,6 +55,6 @@ Please refer to the specific READMEs for each component to get started:
 
 ## Credits
 
-- Frontend/DevOps Lead: [Aryan (Github)](https://github.com/l145dev)
+- Frontend/DevOps Lead: [Aryan (Github)](https://github.com/aryxenv)
 - Backend Lead: [MJ (Github)](https://github.com/Mougembo)
 - Database Lead: [Sahir (Github)](https://github.com/elciguapuuu)
