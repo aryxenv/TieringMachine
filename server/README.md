@@ -36,7 +36,7 @@ The application requires the following configuration (e.g., in `application.prop
 
 CORS is configured to allow requests from:
 
-- `https://l145.be`
+- `https://aryxenv.dev`
 - `http://localhost:5173` (Local development)
 
 ## Running the Application

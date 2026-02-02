@@ -16,7 +16,7 @@ public class CorsConfig {
     public CorsFilter corsFilter() {
         CorsConfiguration config = new CorsConfiguration();
         config.setAllowCredentials(true);
-        config.setAllowedOrigins(List.of("https://l145.be", "http://localhost:5173"));
+        config.setAllowedOrigins(List.of("https://aryxenv.dev", "http://localhost:5173"));
         config.setAllowedHeaders(Arrays.asList(
                 "Origin",
                 "Content-Type",
